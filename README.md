@@ -22,7 +22,7 @@ and express delivery and you can connect help of the phone but our contact us no
 ![Screenshot 2023-07-28 231732](https://github.com/biplabgithub/laundaryproject/assets/108607451/dbcae3a5-2d6c-4764-9341-3ce8eab4a327)
 
 ## Azure link
-#azure-static-web-apps-green-grass-017f2d310.yml
+azure-static-web-apps-green-grass-017f2d310.yml
 
 ## Azure Technologies used:
 Static Web App
